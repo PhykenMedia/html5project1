@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d43c0f16-4ba4-4708-b974-157077c1a901" name="Default" comment="Test Changes">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/GuideDot.js" afterPath="$PROJECT_DIR$/lib/game/entities/GuideDot.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" afterPath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="html5project1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372692974974" ignored="false" />
     <file path="/index.html" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372449854246" ignored="false" />
     <file path="/main.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372454177890" ignored="false" />
-    <file path="/SquishKitten.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372693403607" ignored="false" />
-    <file path="/GuideDot.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372691060071" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372693428360" ignored="false" />
+    <file path="/SquishKitten.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372694949612" ignored="false" />
+    <file path="/GuideDot.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372694851370" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,34 +44,7 @@
       <file leaf-file-name="SquishKitten.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="74" selection-start="1365" selection-end="1365" vertical-scroll-proportion="0.80959755">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paddle-cpu.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/pong/paddle-cpu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paddle.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/pong/paddle.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="puck.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/game/entities/pong/puck.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="47" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+            <state line="91" column="84" selection-start="3613" selection-end="3613" vertical-scroll-proportion="0.65170276">
               <folding />
             </state>
           </provider>
@@ -79,7 +53,7 @@
       <file leaf-file-name="GuideDot.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/GuideDot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="31" selection-start="21" selection-end="42" vertical-scroll-proportion="0.0">
+            <state line="18" column="87" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,16 +79,17 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/lib/game/entities/GuideDot.js" />
         <option value="$PROJECT_DIR$/lib/game/main.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/pong/paddle.js" />
+        <option value="$PROJECT_DIR$/lib/game/entities/GuideDot.js" />
         <option value="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="109" />
-    <option name="y" value="41" />
-    <option name="width" value="1108" />
+    <option name="x" value="75" />
+    <option name="y" value="50" />
+    <option name="width" value="1325" />
     <option name="height" value="1016" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -348,14 +323,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="109" y="41" width="1108" height="1016" extended-state="0" />
+    <frame x="75" y="50" width="1325" height="1016" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3560268" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23325893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35576037" sideWeight="0.7667411" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29646698" sideWeight="0.7667411" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -494,9 +469,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
+    <entry file="file://$PROJECT_DIR$/lib/game/entities/pong/puck.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+        <state line="21" column="8" selection-start="339" selection-end="395" vertical-scroll-proportion="0.47799698">
           <folding />
         </state>
       </provider>
@@ -510,28 +485,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/pong/paddle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="17" column="8" selection-start="296" selection-end="329" vertical-scroll-proportion="0.38694993">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/game/entities/pong/puck.js">
+    <entry file="file://$PROJECT_DIR$/lib/game/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="47" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+        <state line="11" column="23" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/GuideDot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="31" selection-start="21" selection-end="42" vertical-scroll-proportion="0.0">
+        <state line="18" column="87" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="74" selection-start="1365" selection-end="1365" vertical-scroll-proportion="0.80959755">
+        <state line="91" column="84" selection-start="3613" selection-end="3613" vertical-scroll-proportion="0.65170276">
           <folding />
         </state>
       </provider>
