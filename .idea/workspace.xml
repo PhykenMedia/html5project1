@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d43c0f16-4ba4-4708-b974-157077c1a901" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/GuideDot.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" afterPath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="html5project1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372685154915" ignored="false" />
+    <file path="/Dummy.txt" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372692787350" ignored="false" />
     <file path="/index.html" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372449854246" ignored="false" />
     <file path="/main.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372454177890" ignored="false" />
-    <file path="/SquishKitten.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372690550925" ignored="false" />
+    <file path="/SquishKitten.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372692751926" ignored="false" />
     <file path="/GuideDot.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372691060071" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +43,7 @@
       <file leaf-file-name="SquishKitten.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="45" selection-start="1368" selection-end="1368" vertical-scroll-proportion="0.80701756">
+            <state line="17" column="23" selection-start="459" selection-end="459" vertical-scroll-proportion="0.33208954">
               <folding />
             </state>
           </provider>
@@ -114,8 +112,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="57" />
+    <option name="x" value="109" />
+    <option name="y" value="41" />
     <option name="width" value="1108" />
     <option name="height" value="1016" />
   </component>
@@ -342,10 +340,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="57" width="1108" height="1016" extended-state="0" />
+    <frame x="109" y="41" width="1108" height="1016" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23371251" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3560268" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23325893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32920536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35576037" sideWeight="0.64397323" order="0" side_tool="false" content_ui="combo" />
@@ -358,7 +357,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3560268" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -406,7 +404,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated padding 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Changes" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -422,6 +420,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="updated font size" />
     <MESSAGE value="updated padding 1" />
+    <MESSAGE value="Test Changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -524,7 +523,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/game/entities/SquishKitten.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="45" selection-start="1368" selection-end="1368" vertical-scroll-proportion="0.80701756">
+        <state line="17" column="23" selection-start="459" selection-end="459" vertical-scroll-proportion="0.33208954">
           <folding />
         </state>
       </provider>
