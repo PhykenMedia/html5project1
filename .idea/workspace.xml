@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d43c0f16-4ba4-4708-b974-157077c1a901" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/game/entities/SquishKitten.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/game/entities/paddle-cpu.js" afterPath="$PROJECT_DIR$/lib/game/entities/pong/paddle-cpu.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/game/entities/paddle-player.js" afterPath="$PROJECT_DIR$/lib/game/entities/pong/paddle-player.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/game/entities/paddle.js" afterPath="$PROJECT_DIR$/lib/game/entities/pong/paddle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/game/entities/puck.js" afterPath="$PROJECT_DIR$/lib/game/entities/pong/puck.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/main.js" afterPath="$PROJECT_DIR$/lib/game/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/game/levels/main.js" afterPath="$PROJECT_DIR$/lib/game/levels/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d43c0f16-4ba4-4708-b974-157077c1a901" name="Default" comment="" />
     <ignored path="html5project1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372684297494" ignored="false" />
