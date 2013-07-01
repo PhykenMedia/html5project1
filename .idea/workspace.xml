@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d43c0f16-4ba4-4708-b974-157077c1a901" name="Default" comment="">
+    <list default="true" id="d43c0f16-4ba4-4708-b974-157077c1a901" name="Default" comment="Test Changes">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="html5project1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372692829752" ignored="false" />
+    <file path="/Dummy.txt" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372692974974" ignored="false" />
     <file path="/index.html" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372449854246" ignored="false" />
     <file path="/main.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372454177890" ignored="false" />
     <file path="/SquishKitten.js" changelist="d43c0f16-4ba4-4708-b974-157077c1a901" time="1372692751926" ignored="false" />
@@ -319,7 +319,11 @@
       <created>1372692834322</created>
       <updated>1372692834322</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test Changes">
+      <created>1372692966209</created>
+      <updated>1372692966209</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
